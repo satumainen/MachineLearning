@@ -26,7 +26,7 @@ beginner-friendly approach. The analysis incorporates GloVe embeddings, tokeniza
 is essential for saving costs compared to weghing the materials separately.</p>
 <p>Compared models:</p>
 <ul>
-  <li>Partial Leaste Squares Regression</li>
+  <li>Partial Least Squares Regression</li>
   <li>Support Vector Machine Regression</li>
   <li>Recurrent Neural Network</li>
 </ul>
