@@ -3,7 +3,7 @@
 <p>This course featured three mini projects.</p>
 
 ## Mini Project 1 - Predicting Fuel Consumption
-<p>This paper explores the prediction of the estimated fuel consumption in tons/day based on sensor readings from the different sensors on MS Smyril</p>
+<p>This paper explores the prediction of the estimated fuel consumption in tons/day based on sensor readings from the different sensors on a ship.</p>
 <p>Compared models:</p>
 <ul>
   <li>Linear Regression</li>
